@@ -5,4 +5,4 @@ middleman article TITLE
 bundle exec middleman build
 
 # Deploy site to S3
-s3-website deploy blog/build/
+s3-website deploy build/
